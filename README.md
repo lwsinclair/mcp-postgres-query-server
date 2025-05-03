@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rathoddarshil-mcp-postgres-query-server-badge.png)](https://mseep.ai/app/rathoddarshil-mcp-postgres-query-server)
+
 # MCP Postgres Query Server
 
 A Model Context Protocol (MCP) server implementation for querying a PostgreSQL database in read-only mode, designed to work with Claude Desktop and other MCP clients.
